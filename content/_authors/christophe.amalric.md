@@ -14,4 +14,4 @@ badges:
   - segur
 ---
 
-Papa (x2), Product Management, Course à pieds, RPM, Voyageur (23/197) 🚀 ✈️ 
+Coach pour la Base Adresse Nationale (Transfert) et l'OMTE - Observatoire des Marchés et Tendances Emergents (Investigation). Papa (x2), Product Management, Course à pieds, RPM, Voyageur (23/197) 🚀 ✈️ 
