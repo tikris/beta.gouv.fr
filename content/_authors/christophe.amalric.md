@@ -1,11 +1,11 @@
 ---
 fullname: Christophe Amalric
 role: Coach
-domaine: Coaching
+domaine: Coaching BAN (Base Adresse Nationale)
 github: tikris
 missions:
   - start: 2021-04-19
-    end: 2021-07-30
+    end: 2021-12-31
     status: service
     employer: Sopra Steria Next
 startups:
