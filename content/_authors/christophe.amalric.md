@@ -5,20 +5,20 @@ role: "Coach "
 github: tikris
 missions:
   - start: 2021-04-19
-    end: 2021-12-31
+    end: 2022-03-30
     status: service
     employer: Sopra Steria Next
 startups:
-  - ban
   - la-bonne-boite
 badges:
   - segur
 competences:
   - UX
-  - UI
   - Coaching
   - Gestion de Produit
   - Communication
   - Croissance
+  - Business model
+  - Formateur
 ---
 Papa (x2), Product Management, Course à pieds, Voyageur (23/197) 🚀 ✈️
